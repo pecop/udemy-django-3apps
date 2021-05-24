@@ -1,7 +1,10 @@
 # udemy-django-3apps
 
-## hello world app
+## helloworldproject
+hello world app
 
-## todo app
+## todoproject
+todo app
 
-## internal sns app
+## boardproject
+internal sns app
